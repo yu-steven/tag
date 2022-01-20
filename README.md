@@ -1,5 +1,4 @@
 # Apple tag
-It is about apple tags
 ### [this is the URL](https://developer.apple.com/app-store/marketing/guidelines)
 ![Download](./ios-black.svg?.inline)
 ![Download](./ios-white.svg?.inline)
