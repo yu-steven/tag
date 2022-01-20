@@ -1,5 +1,5 @@
 # Apple tag
-### [this is the URL](https://developer.apple.com/app-store/marketing/guidelines)
+### [This is the URL](https://developer.apple.com/app-store/marketing/guidelines)
 ![Download](./ios-black.svg?.inline)
 ![Download](./ios-white.svg?.inline)
 ![Download](./macos-black.svg?.inline)
