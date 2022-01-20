@@ -1,4 +1,4 @@
-# Apple tag
+# Tag
 ### [This is the URL](https://developer.apple.com/app-store/marketing/guidelines)
 ![Download](./ios-black.svg?.inline)
 ![Download](./ios-white.svg?.inline)
@@ -12,3 +12,4 @@
 ![Download](./macos-white-pre.svg?.inline)
 ![Download](./tvos-black-pre.svg?.inline)
 ![Download](./tvos-white-pre.svg?.inline)
+![Download](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
