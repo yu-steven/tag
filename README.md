@@ -12,4 +12,4 @@
 ![Download](./macos-white-pre.svg?.inline)
 ![Download](./tvos-black-pre.svg?.inline)
 ![Download](./tvos-white-pre.svg?.inline)
-![Download](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
+![Download](./google-play)
