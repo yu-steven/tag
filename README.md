@@ -12,4 +12,4 @@
 ![Download](./macos-white-pre.svg?.inline)
 ![Download](./tvos-black-pre.svg?.inline)
 ![Download](./tvos-white-pre.svg?.inline)
-![Download](./google-play)
+![Download](./google-play.svg?.inline)
