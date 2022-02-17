@@ -13,7 +13,7 @@
 ![Download](./tvos-black-pre.svg?.inline)
 ![Download](./tvos-white-pre.svg?.inline)
 <div align="left">
-<a href="https://github.com/git-yusteven/openit/" target="_blank">
+<a href="https://example.com" target="🐟">
 <img src="https://github.com/git-yusteven/tag/raw/main/google-play.svg" width="150" />
 </a>
 
