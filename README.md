@@ -19,3 +19,7 @@
 
 ![Download](./google-play.svg?.inline)
 ![Download](https://github.com/git-yusteven/tag/blob/main/模版.jpg)
+
+## Time in Stars
+
+[![Stargazers over time](https://starchart.cc/git-yusteven/openit.svg)](https://starchart.cc/Loyalsoldier/clash-rules)
