@@ -22,4 +22,4 @@
 
 ## Time in Stars
 
-[![Stargazers over time](https://starchart.cc/git-yusteven/openit.svg)](https://starchart.cc/Loyalsoldier/clash-rules)
+[![Stargazers over time](https://starchart.cc/名字/仓库名.svg)](https://starchart.cc/Loyalsoldier/clash-rules)
