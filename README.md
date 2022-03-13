@@ -19,7 +19,7 @@
 
 ![Download](./google-play.svg?.inline)
 ![Download](./windows_icon.svg?.inline)
-![Download](./finder_icon.svg?.inline)
+![Download](./finder_icon.PNG?.inline)
 ![Download](./android_icon.svg?.inline)
 ![Download](./ios_icon.svg?.inline)
 ![Download](https://github.com/git-yusteven/tag/blob/main/模版.jpg)
