@@ -28,3 +28,5 @@
 ## Time in Stars
 
 [![Stargazers over time](https://starchart.cc/名字/仓库名.svg)](https://starchart.cc/Loyalsoldier/clash-rules)
+
+![Download](https://gitee.com/mlpmlp/tag/raw/master/ios-black.svg)
